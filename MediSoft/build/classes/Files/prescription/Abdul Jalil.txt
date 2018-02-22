@@ -1,0 +1,12 @@
+Name: Abdul Jalil
+
+Age : 54
+
+Gender : javax.swing.JRadioButton[,150,120,100x30,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@2ef42462,flags=360,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=false,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Male]
+
+Problem:. Sufering from fever for 3 days	
+
+Prescription: Tab. Napa Extra - 1+0+1
+Tab. Neotak - 1+0+1
+
+
